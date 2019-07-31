@@ -9,7 +9,7 @@
 ## The JAVA Quiz / *Le QCM JAVA*
 **The entire quiz has been devlopped with MVC pattern**     
 *L'ensemble du QCM a été codé suivant le pattern MVC*        
-![UML](./doc/java_quiz.png)
+![UML](./doc/JavaQuiz.png)
 
 
 
