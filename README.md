@@ -1,5 +1,5 @@
 # ChatBot with JAVA Quiz / *ChatBot avec un QCM JAVA*
-**This a ChatBot with a JAVA Quiz you can edit.**    
+**This is a ChatBot with a JAVA Quiz you can edit.**    
 *Ceci est ChatBot avec un QCM JAVA que l'on peut modifier.*         
 
 ## Acknowledgements/ *Remerciements*
