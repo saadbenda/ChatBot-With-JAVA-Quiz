@@ -1,10 +1,14 @@
-# ChatBot with JAVA QCM / *ChatBot avec un QCM JAVA*
+# ChatBot with JAVA Quiz / *ChatBot avec un QCM JAVA*
 
-**This a ChatBot with a JAVA QCM you can edit.**    
+**This a ChatBot with a JAVA Quiz you can edit.**    
 *Ceci est ChatBot avec un QCM JAVA que l'on peut modifier.*
 
-## The JAVA QCM / *Le QCM JAVA*
-**The QCM
+## The JAVA Quiz / *Le QCM JAVA*
+**The entire quiz has been devlopped with MVC pattern**     
+*L'ensemble du QCM a été codé suivant le pattern MVC*
+![UML](./doc/java_quiz.png)
+------
+*****
 
 
 
