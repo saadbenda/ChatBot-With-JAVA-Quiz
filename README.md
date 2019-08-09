@@ -3,8 +3,8 @@
 *Ceci est ChatBot avec un QCM JAVA que l'on peut modifier. [Lien sur GitHub Pages .](https://saadbenda.github.io/ChatBot-With-JAVA-Quiz/)*         
 
 ## Acknowledgements / *Remerciements*
-**A big thank-you to Mr. Hakim and Mr. Haddou Hicham (Supervisors at Accenture Morocco) for his supervisory and his precious advice during all realization of this project.**          
-*Un grand merci à Mr. Hakim and Mr. Haddou Hicham (Superviseurs chez Accenture Maroc) pour son encadrement et ses précieux conseils durant la réalisation de ce projet*          
+**A big thank-you to Mr. Hakim and Mr. Haddou Hicham (Supervisors at Accenture Morocco) for their supervisory and their precious advice during the realization of this project.**          
+*Un grand merci à Mr. Hakim and Mr. Haddou Hicham (Superviseurs chez Accenture Maroc) pour leur encadrement et leurs précieux conseils durant la réalisation de ce projet*          
 
 ## The JAVA Quiz / *Le QCM JAVA*
 **The entire quiz has been developed with MVC pattern**     
