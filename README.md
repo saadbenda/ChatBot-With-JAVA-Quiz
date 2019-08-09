@@ -36,4 +36,4 @@
 
 ## Future Commits / *Prochain Commits*
 **In the next commits, I will implement a real discussion between the bot and the user so stay tuned !**              
-*Dans les prochain commits, j'implémenterai une vraie discussion entre le bot et l'utilisateur donc restez connecté !*
+*Dans les prochain commits, j'implémenterai une vraie discussion entre le bot et l'utilisateur donc restez connectés !*
