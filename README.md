@@ -19,7 +19,7 @@
 *L'application reconnait les nouveaux utilisateurs et les anciens (ex. saad)*
 
 ### The GuiView / *La GuiView*
-**To start the application, write this line `> python Controller.py` on your console. Then choose GuiView. You can change the style of the view by opening the .ui files contained in the file 'view' with qt designer for example**                               
+**To start the application, write this line `> python Controller.py` on your console. Then choose GuiView. You can change the style of the view by opening the .ui files contained in the folder 'view' with qt designer for example**                               
 *Pour lancer l'application, écrivez cette ligne `> python Controller.py` dans votre console. Puis choisissez GuiView. Vous pouvez changer le style de la vue en ouvrant les fichiers .ui contenues dans le dossier 'view' avec qt designer par exemple*
 #### The Main Window / *La fenêtre principale*
 **/!\ I did not have time to finish the chat between the bot and the user, I will do it in the next commit**                    
