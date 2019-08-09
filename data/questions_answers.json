@@ -1,41 +1,43 @@
 {
-    "0": {
-        "answer": [
-            "Compil\u00e9 et interpr\u00e9t\u00e9",
-            "Le compilateur compile le code source vers un bytecode, la machine virtuelle Java (JVM) interpr\u00e8te ce bytecode"
-        ],
-        "options": [
-            "Compil\u00e9",
-            "Interpr\u00e9t\u00e9",
-            "Compil\u00e9 et interpr\u00e9t\u00e9",
-            "Ni compil\u00e9 ni interpr\u00e9t\u00e9"
-        ],
-        "question": "Java est un langage"
-    },
-    "1": {
-        "answer": [
-            "Sun Microsystems",
-            "Par James Gosling chez Sun."
-        ],
-        "options": [
-            "Hewlett-Packard",
-            "Sun Microsystems",
-            "Microsoft",
-            "Oracle"
-        ],
-        "question": "Java est un langage d\u00e9velopp\u00e9 par ?"
-    },
-    "2": {
-        "answer": [
-            "le polymorphisme",
-            "La liaison tardive dynamique permet d\u2019utiliser pour chaque objet sa propre version d\u2019une m\u00e9thode (en fonction de la classe de l\u2019objet d\u00e9termin\u00e9e \u00e0 l\u2019ex\u00e9cution). Ceci permet d\u2019obtenir un code polymorphe.."
-        ],
-        "options": [
-            "l\u2019encapsulation",
-            "le polymorphisme",
-            "l\u2019h\u00e9ritage",
-            "la marginalisation"
-        ],
-        "question": "La liaison tardive est essentielle pour assurer "
-    }
+	"0": {
+	    "question": "Java est un langage",
+	    "options": [
+	         "Compilé",
+	         "Interprété",
+	         "Compilé et interprété",
+	         "Ni compilé ni interprété"
+	    ],
+	    "answer": ["Compilé et interprété", "Le compilateur compile le code source vers un bytecode, la machine virtuelle Java (JVM) interprète ce bytecode"]
+	}
+        ,
+        "1": {
+                "question": "Java est un langage développé par ?",
+                "options": [
+                    "Hewlett-Packard",
+                    "Sun Microsystems",
+                    "Microsoft",
+                    "Oracle"
+                ],
+                "answer": ["Sun Microsystems", "Par James Gosling chez Sun."]
+            },
+        "2": {
+                "question": "La liaison tardive est essentielle pour assurer ",
+                "options": [
+                    "l’encapsulation",
+                    "le polymorphisme",
+                    "l’héritage",
+                    "la marginalisation"
+                ],
+                "answer": ["le polymorphisme", "La liaison tardive dynamique permet d’utiliser pour chaque objet sa propre version d’une méthode (en fonction de la classe de l’objet déterminée à l’exécution). Ceci permet d’obtenir un code polymorphe.."]
+            },
+        "3": {
+                "question": "Combien d’instances de la classe A crée le code suivant ? \nA x,u,v;\nx=new A();\nA z=new A();\n ",
+                "options": [
+                     "Aucune",
+                     "Cinq",
+                     "Trois",
+                     "Deux"
+                ],
+                "answer": ["Deux", "Il y a deux instances de A créées par les deux new, la première est référencée par x et y, la deuxième par z."]
+            }
 }
