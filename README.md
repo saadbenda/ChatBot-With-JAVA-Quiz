@@ -1,6 +1,6 @@
 # ChatBot with JAVA Quiz / *ChatBot avec un QCM JAVA*
 **This is a ChatBot with a JAVA Quiz you can edit. [Link on GitHub Pages .](https://saadbenda.github.io/ChatBot-With-JAVA-Quiz/)**              
-*Ceci est ChatBot avec un QCM JAVA que l'on peut modifier. [Lien sur GitHub Pages .](https://saadbenda.github.io/ChatBot-With-JAVA-Quiz/)*         
+*Ceci est un ChatBot avec un QCM JAVA que l'on peut modifier. [Lien sur GitHub Pages .](https://saadbenda.github.io/ChatBot-With-JAVA-Quiz/)*         
 
 ## Acknowledgements / *Remerciements*
 **A big thank-you to Mr. Hakim and Mr. Haddou Hicham (Supervisors at Accenture Morocco) for their supervisory and their precious advice during the realization of this project.**          
