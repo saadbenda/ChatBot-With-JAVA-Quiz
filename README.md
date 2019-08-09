@@ -23,11 +23,11 @@
 *Pour lancer l'application, écrivez cette ligne `> python Controller.py` dans votre console. Puis choisissez GuiView. Vous pouvez changer le style de la vue en ouvrant les fichiers .ui contenues dans le dossier 'view' avec qt designer par exemple*
 #### The Main Window / *La fenêtre principale*
 **/!\ I did not have time to finish the chat between the bot and the user, I will do it in the next commit**                    
-*/!\ Je n'aie malheureusement pas eu le temps de finir la discussion entre le bot et l'utilisateur, je le ferais dans le prochain commit*               
+*/!\ Je n'ai malheureusement pas eu le temps de finir la discussion entre le bot et l'utilisateur, je le ferais dans le prochain commit*               
 ![GuiView](./doc/GuiView.png)
 #### The Login / *La Connexion*
-**For the demo: the user is 'test' and the password 'test' then click on 'connection'**                       
-*Pour la démo: l'utilisateur est 'test' et le mot de passe est 'test' puis cliquez sur 'connection'*
+**For the demo: the user is 'test' and the password is also 'test' then click on 'connection'**                       
+*Pour la démo: l'utilisateur est 'test' et le mot de passe est aussi 'test' puis cliquez sur 'connection'*
 ![Login](./doc/Login.png)
 #### The Question Editor/ *l'Editeur de questions*        
 **Add the questions you want then click on 'send'**           
@@ -36,4 +36,4 @@
 
 ## Future Commits / *Prochain Commits*
 **In the next commits, I will implement a real discussion between the bot and the user so stay tuned !**              
-*Dans les prochain commits, j'implémenterai une vraie discussion entre le bot et l'utilisateur donc restez connecté !
+*Dans les prochain commits, j'implémenterai une vraie discussion entre le bot et l'utilisateur donc restez connecté !*
